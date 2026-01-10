@@ -91,9 +91,9 @@ AI Report Generator is a FastAPI-based backend application that generates struct
 - **PDF (.pdf)** – Shareable, presentation-ready reports
 
 ## Swagger UI
-
+<img src="app/storage/ui/Swagger_UI.png" width="700"/>
 
 ## PDF Generated
-📄 [Download Sample Analytics Report (PDF)](app/storage/reports/report(10).pdf)
+📄 [Download Sample Analytics Report (PDF)](app/storage/reports/report_generated.pdf)
 
 
