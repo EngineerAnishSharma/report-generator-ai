@@ -81,18 +81,6 @@ AI Report Generator is a FastAPI-based backend application that generates struct
 
 ---
 
-## 🖼️ Sample PDF Screenshots
-
-### 📊 Analytics Summary Page
-![Analytics Report Sample](assets/sample_analytics_report.png)
-
-### 📈 Visual + AI Explanation Page
-![Image Report Sample](assets/sample_image_report.png)
-
-> Screenshots were generated locally during development.
-
----
-
 ## 📂 Supported Input Formats
 - **CSV files**
 - **Image files (PNG, JPG)**
@@ -101,5 +89,6 @@ AI Report Generator is a FastAPI-based backend application that generates struct
 
 ## 📤 Output Format
 - **PDF (.pdf)** – Shareable, presentation-ready reports
+![Analytics Report Sample](app/storage/reports/report (10).pdf)
 
 
